@@ -1,0 +1,2120 @@
+{
+  "time": "2026-01-25 22:02:01",
+  "data": [
+    {
+      "course": "21세기 정치와 사회",
+      "professor": "박지광",
+      "style": "width: 88.8%;"
+    },
+    {
+      "course": "4차산업과 인공지능",
+      "professor": "최광진",
+      "style": "width: 72.8%;"
+    },
+    {
+      "course": "AI 리터러시 기르기",
+      "professor": "이새봄",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "AI와 비즈니스모델",
+      "professor": "이새봄",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "Basic Writing Skills",
+      "professor": "노동욱",
+      "style": "width: 98.2%;"
+    },
+    {
+      "course": "Global Traveling",
+      "professor": "Robert J.Au",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "Global Traveling",
+      "professor": "Ian Robert J.Aujero",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "NCS직업기초능력의 이해",
+      "professor": "채희원",
+      "style": "width: 89.6%;"
+    },
+    {
+      "course": "NCS직업기초능력의 이해",
+      "professor": "취업정보",
+      "style": "width: 77.4%;"
+    },
+    {
+      "course": "Reading Glocal News-문화예술",
+      "professor": "LagundinoWilliamChester",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "Reading Glocal News-문화예술",
+      "professor": "ChristopherWright",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "Reading Glocal News-문화예술",
+      "professor": "William Lagundino",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "Reading Glocal News-문화예술",
+      "professor": "Christopher John Wright",
+      "style": "width: 87.2%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "로즈마리신",
+      "style": "width: 89%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "Rosemarie E. Shin",
+      "style": "width: 91.6%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "RosemarieE. Shin",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "Nicole A. Walker",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "RosemarieE. Ferreira",
+      "style": "width: 63.4%;"
+    },
+    {
+      "course": "Reading Glocal News-인문학",
+      "professor": "Kevin Wayne Ellis",
+      "style": "width: 35%;"
+    },
+    {
+      "course": "Reading Glocal News-자연과학",
+      "professor": "신승원",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "Reading Glocal News-자연과학",
+      "professor": "AndrewCho",
+      "style": "width: 77.8%;"
+    },
+    {
+      "course": "Reading Glocal News-자연과학",
+      "professor": "SHIN SEUNG WON",
+      "style": "width: 75.8%;"
+    },
+    {
+      "course": "Reading Glocal News-자연과학",
+      "professor": "Andrew Wonho Cho",
+      "style": "width: 97.6%;"
+    },
+    {
+      "course": "Reading Glocal News-자연과학",
+      "professor": "Andy Seungwon Shin",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "SW중심의 미래사회",
+      "professor": "이동학",
+      "style": "width: 82%;"
+    },
+    {
+      "course": "SW중심의 미래사회",
+      "professor": "이새봄",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "SW중심의 미래사회",
+      "professor": "장윤재",
+      "style": "width: 85.2%;"
+    },
+    {
+      "course": "SW중심의 미래사회",
+      "professor": "김종완",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "건강과운동",
+      "professor": "박형길",
+      "style": "width: 88.8%;"
+    },
+    {
+      "course": "건강과운동",
+      "professor": "유재현",
+      "style": "width: 68.4%;"
+    },
+    {
+      "course": "건강원리와 실제",
+      "professor": "박승순",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "건강원리와 실제",
+      "professor": "유재현",
+      "style": "width: 93%;"
+    },
+    {
+      "course": "건축의 이해",
+      "professor": "이광복",
+      "style": "width: 84%;"
+    },
+    {
+      "course": "걷고, 뛰고, 춤추고, 놀고",
+      "professor": "이미희",
+      "style": "width: 23.4%;"
+    },
+    {
+      "course": "결혼과 가족관계",
+      "professor": "허상민",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "결혼과 가족관계",
+      "professor": "김봉근",
+      "style": "width: 50.8%;"
+    },
+    {
+      "course": "경전의 지혜(구,중국고전과 성서)",
+      "professor": "eng Cheng",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "경전의 지혜(구,중국고전과 성서)",
+      "professor": "김동혜",
+      "style": "width: 50%;"
+    },
+    {
+      "course": "경전의 지혜(구,중국고전과 성서)",
+      "professor": "Zheng Chengzhe",
+      "style": "width: 83.4%;"
+    },
+    {
+      "course": "경전의 지혜(구,중국고전과 성서)",
+      "professor": "정성철",
+      "style": "width: 78.2%;"
+    },
+    {
+      "course": "경전의 지혜(구,중국고전과 성서)",
+      "professor": "정성철",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "고전음악과 인간의 삶",
+      "professor": "박신희",
+      "style": "width: 88.8%;"
+    },
+    {
+      "course": "고전음악과 인간의 삶",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "고전음악과 인간의 삶",
+      "professor": "조자영",
+      "style": "width: 78.4%;"
+    },
+    {
+      "course": "골프",
+      "professor": "정영철",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "골프",
+      "professor": "정영철",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "골프",
+      "professor": "정영철",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "골프",
+      "professor": "정영철",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "골프",
+      "professor": "김재형",
+      "style": "width: 88.8%;"
+    },
+    {
+      "course": "공간 브랜딩 디자인",
+      "professor": "강현정",
+      "style": "width: 76.2%;"
+    },
+    {
+      "course": "과거, 현재, 미래의 법률 논쟁",
+      "professor": "Jeeny Jeey",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "과거, 현재, 미래의 법률 논쟁",
+      "professor": "Lee Jeeny Jeeyoun",
+      "style": "width: 96.4%;"
+    },
+    {
+      "course": "교양인 화법과 태도",
+      "professor": "김명희",
+      "style": "width: 88.8%;"
+    },
+    {
+      "course": "교양인 화법과 태도",
+      "professor": "김명희",
+      "style": "width: 97.4%;"
+    },
+    {
+      "course": "교양인 화법과 태도(구, 그리스도인 화법)",
+      "professor": "김명희",
+      "style": "width: 97.4%;"
+    },
+    {
+      "course": "교육고전과 인성(구, 교육고전의이해)",
+      "professor": "명지원",
+      "style": "width: 47%;"
+    },
+    {
+      "course": "교육과정 및 교육평가",
+      "professor": "조호제",
+      "style": "width: 48%;"
+    },
+    {
+      "course": "교육과정 및 교육평가",
+      "professor": "홍지완",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "교육과정 및 교육평가",
+      "professor": "명지원",
+      "style": "width: 51.6%;"
+    },
+    {
+      "course": "교육방법 및 교육공학",
+      "professor": "박완성",
+      "style": "width: 73%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "김길숙",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "명지원",
+      "style": "width: 66.6%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "김길숙",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "최지영",
+      "style": "width: 33.4%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "박완성",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "교육봉사활동",
+      "professor": "이유진",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "교육심리",
+      "professor": "정유선",
+      "style": "width: 91%;"
+    },
+    {
+      "course": "교육심리",
+      "professor": "박완성",
+      "style": "width: 81%;"
+    },
+    {
+      "course": "교육철학 및 교육사",
+      "professor": "김자중",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "교육철학 및 교육사",
+      "professor": "미지정",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "교육철학 및 교육사",
+      "professor": "명지원",
+      "style": "width: 34.8%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "심성용",
+      "style": "width: 94%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "김승현",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "강주영",
+      "style": "width: 96.6%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "신남주",
+      "style": "width: 85.4%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "이유정",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "최수동",
+      "style": "width: 74.2%;"
+    },
+    {
+      "course": "교육학개론",
+      "professor": "김나미",
+      "style": "width: 65.8%;"
+    },
+    {
+      "course": "교육행정 및 교육경영",
+      "professor": "이재균",
+      "style": "width: 71.2%;"
+    },
+    {
+      "course": "교직실무",
+      "professor": "김종민",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "교직실무",
+      "professor": "김정미",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "교직실무",
+      "professor": "박완성",
+      "style": "width: 75%;"
+    },
+    {
+      "course": "교회음악과 현악교수법 I",
+      "professor": "한송이",
+      "style": "width: 78.6%;"
+    },
+    {
+      "course": "교회음악과 현악교수법 II",
+      "professor": "한송이",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "국제사이버법의 이해",
+      "professor": "Jeeny Jeey",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "국제사이버법의 이해",
+      "professor": "Lee Jeeny Jeeyoun",
+      "style": "width: 88.6%;"
+    },
+    {
+      "course": "글로벌 문화와 비즈니스 매너",
+      "professor": "김명희",
+      "style": "width: 91.4%;"
+    },
+    {
+      "course": "글로벌 문화콘텐츠 창업 성공전략",
+      "professor": "이자현",
+      "style": "width: 62.6%;"
+    },
+    {
+      "course": "글로컬리더십_캡스톤디자인",
+      "professor": "이병희",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "글로컬리더십_캡스톤디자인",
+      "professor": "최경천",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "긍정심리학",
+      "professor": "김나미",
+      "style": "width: 77.8%;"
+    },
+    {
+      "course": "기업가정신과 4차 산업혁명",
+      "professor": "김미영",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "기업가정신과 4차 산업혁명",
+      "professor": "미지정",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "기업가정신과 창업입문(구,기업가정신과 창업)",
+      "professor": "이동학",
+      "style": "width: 77.6%;"
+    },
+    {
+      "course": "기업가정신과 창업입문(구,기업가정신과 창업)",
+      "professor": "스타트업",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "기업가정신과 창업입문(구,기업가정신과 창업)",
+      "professor": "오덕신",
+      "style": "width: 76%;"
+    },
+    {
+      "course": "기초생물학",
+      "professor": "강병용",
+      "style": "width: 92.2%;"
+    },
+    {
+      "course": "기초영양학",
+      "professor": "황효정",
+      "style": "width: 83.8%;"
+    },
+    {
+      "course": "기초영양학",
+      "professor": "한경식",
+      "style": "width: 95.6%;"
+    },
+    {
+      "course": "기후재난과 대비",
+      "professor": "권기욱",
+      "style": "width: 92.4%;"
+    },
+    {
+      "course": "나노융합과 미래",
+      "professor": "고원배",
+      "style": "width: 66.4%;"
+    },
+    {
+      "course": "녹색도시와 인간생활",
+      "professor": "권기욱",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "논어 다시읽기",
+      "professor": "eng Cheng",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "논어 다시읽기",
+      "professor": "Zheng Chengzhe",
+      "style": "width: 78.2%;"
+    },
+    {
+      "course": "논어 다시읽기",
+      "professor": "정성철",
+      "style": "width: 79.6%;"
+    },
+    {
+      "course": "농구 (교양)",
+      "professor": "문종주",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "다문화와 사회통합(구, 다문화의 이해)",
+      "professor": "김명희",
+      "style": "width: 90.6%;"
+    },
+    {
+      "course": "대인관계 심리학",
+      "professor": "김나미",
+      "style": "width: 52.6%;"
+    },
+    {
+      "course": "대학생활과 전공탐색 세미나",
+      "professor": "양경해",
+      "style": "width: 57.8%;"
+    },
+    {
+      "course": "대학수학",
+      "professor": "미지정",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "대학수학",
+      "professor": "윤미",
+      "style": "width: 88.2%;"
+    },
+    {
+      "course": "데이터 비즈니스 활용",
+      "professor": "김미영",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "데이터 비즈니스 활용",
+      "professor": "미지정",
+      "style": "width: 26.6%;"
+    },
+    {
+      "course": "데이터 비즈니스 활용",
+      "professor": "조광현",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "데이터 활용과 창업",
+      "professor": "이새봄",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "도덕적 딜레마와 정의로운 삶",
+      "professor": "음영철",
+      "style": "width: 86.4%;"
+    },
+    {
+      "course": "도시과학과 리빙랩 아이디어 설계",
+      "professor": "박은수",
+      "style": "width: 76.6%;"
+    },
+    {
+      "course": "디자인 씽킹과 창업",
+      "professor": "이자현",
+      "style": "width: 65%;"
+    },
+    {
+      "course": "디지털 헬스케어",
+      "professor": "장사랑",
+      "style": "width: 95%;"
+    },
+    {
+      "course": "디지털 헬스케어",
+      "professor": "김현영",
+      "style": "width: 96.4%;"
+    },
+    {
+      "course": "디지털교육",
+      "professor": "조성실",
+      "style": "width: 53.4%;"
+    },
+    {
+      "course": "라이프스타일과 건강관리I",
+      "professor": "이금선",
+      "style": "width: 91.2%;"
+    },
+    {
+      "course": "라이프스타일과 건강관리I",
+      "professor": "미지정",
+      "style": "width: 92%;"
+    },
+    {
+      "course": "라이프스타일과 건강관리I",
+      "professor": "봉원영",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "라이프스타일과 건강관리II",
+      "professor": "이금선",
+      "style": "width: 89.4%;"
+    },
+    {
+      "course": "라이프스타일과 건강관리II",
+      "professor": "봉원영",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "라틴문화예술의 이해(구, 스페인문화와 언어)",
+      "professor": "미지정",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "라틴문화예술의 이해(구, 스페인문화와 언어)",
+      "professor": "김선이",
+      "style": "width: 74.8%;"
+    },
+    {
+      "course": "로마인의 삶과 교육(구, 로마서)",
+      "professor": "김숙영",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "로마인의 삶과 교육(구, 로마서)",
+      "professor": "최수동",
+      "style": "width: 74.4%;"
+    },
+    {
+      "course": "매직테니스",
+      "professor": "임지헌",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "명인과의 토크 콘서트",
+      "professor": "음영철",
+      "style": "width: 81.2%;"
+    },
+    {
+      "course": "모바일 웹의 이해와 활용",
+      "professor": "장윤재",
+      "style": "width: 50%;"
+    },
+    {
+      "course": "문학과 미술 속 음악읽기",
+      "professor": "공정원",
+      "style": "width: 78.4%;"
+    },
+    {
+      "course": "문학과 미술 속 음악읽기",
+      "professor": "미지정",
+      "style": "width: 66.6%;"
+    },
+    {
+      "course": "문학과 종교적 상상력",
+      "professor": "김용성",
+      "style": "width: 89%;"
+    },
+    {
+      "course": "문학적 상상력의 3D 구현",
+      "professor": "최원재",
+      "style": "width: 47.6%;"
+    },
+    {
+      "course": "문학적 상상력의 3D 구현",
+      "professor": "노동욱",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "문화와 사회, 그리고 인간(문사인(文社人))",
+      "professor": "백숭기",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "미디어로 보는 일본",
+      "professor": "김정헌",
+      "style": "width: 97.4%;"
+    },
+    {
+      "course": "미래직업과 신직업 탐색",
+      "professor": "정성진",
+      "style": "width: 75%;"
+    },
+    {
+      "course": "미래직업과 신직업 탐색",
+      "professor": "채희원",
+      "style": "width: 61.6%;"
+    },
+    {
+      "course": "미술의 이해",
+      "professor": "하임성",
+      "style": "width: 89.8%;"
+    },
+    {
+      "course": "바이러스의 세계와 생명공학",
+      "professor": "류기현",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "배구",
+      "professor": "유재홍",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "이재구",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "김문희",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "김영미",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "미지정",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "이재구",
+      "style": "width: 94.2%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "김은경",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "배드민턴",
+      "professor": "차윤숙",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "배드민턴 I",
+      "professor": "이재구",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "범죄와 법",
+      "professor": "Jeeny Jeey",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "범죄와 법",
+      "professor": "LEE JEENY JEEYOUN",
+      "style": "width: 95%;"
+    },
+    {
+      "course": "베스트셀러로 철학하기",
+      "professor": "이관호",
+      "style": "width: 94.6%;"
+    },
+    {
+      "course": "북한사회와주민생활",
+      "professor": "송현욱",
+      "style": "width: 68.8%;"
+    },
+    {
+      "course": "북한사회와주민생활",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "북한사회와주민생활",
+      "professor": "한승대",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "북한사회와주민생활",
+      "professor": "현인애",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "비서실무론",
+      "professor": "김명희",
+      "style": "width: 73.8%;"
+    },
+    {
+      "course": "빅데이터 이해와 활용",
+      "professor": "하상현",
+      "style": "width: 75%;"
+    },
+    {
+      "course": "빅데이터 이해와 활용",
+      "professor": "이새봄",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "전지은",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "임준서",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "변준석",
+      "style": "width: 28.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "이관호",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김지혜",
+      "style": "width: 91%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "백숭기",
+      "style": "width: 82.8%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김희진",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "이은경",
+      "style": "width: 97.4%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김정헌",
+      "style": "width: 96%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박현선",
+      "style": "width: 51.8%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "유승현",
+      "style": "width: 69.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박윤영",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "최가형",
+      "style": "width: 91%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "강영미",
+      "style": "width: 83.2%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "한금윤",
+      "style": "width: 96.2%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박성준",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "최가형",
+      "style": "width: 98.8%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김형태",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "이시은",
+      "style": "width: 93.8%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박현선",
+      "style": "width: 63.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "한승대",
+      "style": "width: 63.4%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "유승현",
+      "style": "width: 72.4%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "권용재",
+      "style": "width: 92%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박지현",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "최인선",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "이진숙",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김엘리",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "박윤영",
+      "style": "width: 96.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "강영미",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "이현주",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사고와 표현",
+      "professor": "김지숙",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "사고조사기법",
+      "professor": "김훈",
+      "style": "width: 91.8%;"
+    },
+    {
+      "course": "사고조사이론",
+      "professor": "김훈",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "사회복지학개론",
+      "professor": "한상윤",
+      "style": "width: 72%;"
+    },
+    {
+      "course": "사회복지학개론",
+      "professor": "미지정",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사회복지학개론",
+      "professor": "윤재영",
+      "style": "width: 76%;"
+    },
+    {
+      "course": "사회적 기업가정신과 소셜벤처 창업",
+      "professor": "스타트업",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "사회적 기업가정신과 소셜벤처 창업",
+      "professor": "오덕신",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "삼육 도서 100선의 향기(인문)",
+      "professor": "노동욱",
+      "style": "width: 84.4%;"
+    },
+    {
+      "course": "삼육 도서 100선의 향기(인문)",
+      "professor": "김성현",
+      "style": "width: 89%;"
+    },
+    {
+      "course": "색채론",
+      "professor": "서지현",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "색채론",
+      "professor": "주미경",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "색채론",
+      "professor": "김유선",
+      "style": "width: 90.6%;"
+    },
+    {
+      "course": "생명공학의 이해(유전과질병)",
+      "professor": "김수동",
+      "style": "width: 93.6%;"
+    },
+    {
+      "course": "생명공학의 이해(유전과질병)",
+      "professor": "미지정",
+      "style": "width: 75%;"
+    },
+    {
+      "course": "생명공학의 이해(유전과질병)",
+      "professor": "송은경",
+      "style": "width: 86.2%;"
+    },
+    {
+      "course": "생화학 및 실험",
+      "professor": "최연정",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "생화학 및 실험",
+      "professor": "정태환",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "생화학 및 실험",
+      "professor": "한경식",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "생활교양한문",
+      "professor": "명지원",
+      "style": "width: 57.8%;"
+    },
+    {
+      "course": "생활속 물리",
+      "professor": "김의석",
+      "style": "width: 95%;"
+    },
+    {
+      "course": "생활속 물리",
+      "professor": "이순남",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "생활속의 화학",
+      "professor": "고정원",
+      "style": "width: 90.6%;"
+    },
+    {
+      "course": "생활속의 화학",
+      "professor": "김광호",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "생활속의 화학",
+      "professor": "미지정",
+      "style": "width: 66.6%;"
+    },
+    {
+      "course": "생활속의 화학",
+      "professor": "정상현",
+      "style": "width: 70.4%;"
+    },
+    {
+      "course": "서비스 경영실무(SMAT)",
+      "professor": "채희원",
+      "style": "width: 92.2%;"
+    },
+    {
+      "course": "서양 철학과 초월적 사유(구, 성서와 인문학)",
+      "professor": "김봉근",
+      "style": "width: 68.6%;"
+    },
+    {
+      "course": "세계 식문화의 이해",
+      "professor": "김민주",
+      "style": "width: 89.6%;"
+    },
+    {
+      "course": "세계문학과 철학의 만남",
+      "professor": "김봉근",
+      "style": "width: 81%;"
+    },
+    {
+      "course": "세계문화와 종교(구,세계의 종교)",
+      "professor": "최수동",
+      "style": "width: 77%;"
+    },
+    {
+      "course": "세계여행과 경영",
+      "professor": "미지정",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "세계여행과 경영",
+      "professor": "엄지영",
+      "style": "width: 93.8%;"
+    },
+    {
+      "course": "세계행복도시로의 음악기행",
+      "professor": "공정원",
+      "style": "width: 74%;"
+    },
+    {
+      "course": "세계행복도시로의 음악기행",
+      "professor": "미지정",
+      "style": "width: 33.4%;"
+    },
+    {
+      "course": "세상을 움직이는 마법",
+      "professor": "이철우",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "소비자와 시장경제",
+      "professor": "신동진",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "소비자와 시장경제",
+      "professor": "미지정",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "소프트웨어 이해와 문제해결",
+      "professor": "이새봄",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "수영초급",
+      "professor": "문종주",
+      "style": "width: 95%;"
+    },
+    {
+      "course": "숨 쉬는 자연 속 공감 디자인",
+      "professor": "이임정",
+      "style": "width: 85.6%;"
+    },
+    {
+      "course": "스노보드 초급",
+      "professor": "구본학",
+      "style": "width: 84%;"
+    },
+    {
+      "course": "스노보드 초급",
+      "professor": "유재현",
+      "style": "width: 66.6%;"
+    },
+    {
+      "course": "스케이트 초급",
+      "professor": "김수연",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "스쿼시",
+      "professor": "정현",
+      "style": "width: 62.8%;"
+    },
+    {
+      "course": "스쿼시",
+      "professor": "김영미",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "스키초급",
+      "professor": "박형길",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "스키초급",
+      "professor": "유재현",
+      "style": "width: 76.6%;"
+    },
+    {
+      "course": "스키초급",
+      "professor": "이재구",
+      "style": "width: 73.4%;"
+    },
+    {
+      "course": "스타트업트렌드",
+      "professor": "강동균",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "스타트업트렌드",
+      "professor": "권호중",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "스타트업트렌드",
+      "professor": "전성현",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "스타트업트렌드",
+      "professor": "최성환",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "김지연",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "박승순 / 김지연",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "박승순",
+      "style": "width: 71.2%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "박승순 / 서영생",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "박승순 / 김종우",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "스포츠와 음악(구, 스포츠음악의 이해)",
+      "professor": "Jaein Park",
+      "style": "width: 70.6%;"
+    },
+    {
+      "course": "스피치와 프리젠테이션",
+      "professor": "취업정보",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "백숭기",
+      "style": "width: 95.2%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "미지정",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "윤병인",
+      "style": "width: 96.6%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "박대헌",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "박춘식",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "시민윤리(구, 그리스도인 생활윤리)",
+      "professor": "이재균",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "신체자세와동작요법",
+      "professor": "박승순",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "신체자세와동작요법",
+      "professor": "홍선미",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "이지수",
+      "style": "width: 45%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "이건호",
+      "style": "width: 67.6%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "임영옥",
+      "style": "width: 85.8%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "미지정",
+      "style": "width: 76%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "이재웅",
+      "style": "width: 81.2%;"
+    },
+    {
+      "course": "심리학개론",
+      "professor": "정구철",
+      "style": "width: 92%;"
+    },
+    {
+      "course": "알기쉬운 미적분학",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "알기쉬운 미적분학",
+      "professor": "윤미",
+      "style": "width: 80.8%;"
+    },
+    {
+      "course": "약사 및 의료종사자를 위한 일반법률 상식",
+      "professor": "LEE JEENY JEEYOUN",
+      "style": "width: 91.8%;"
+    },
+    {
+      "course": "언어문화의 이해",
+      "professor": "백정혜",
+      "style": "width: 76.4%;"
+    },
+    {
+      "course": "언어와 예술",
+      "professor": "정재신",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "언어와 예술",
+      "professor": "이정현",
+      "style": "width: 77.4%;"
+    },
+    {
+      "course": "언어와 예술",
+      "professor": "Zhenxuan Li",
+      "style": "width: 77.6%;"
+    },
+    {
+      "course": "언어의 세계와 소통",
+      "professor": "김정헌",
+      "style": "width: 98.2%;"
+    },
+    {
+      "course": "여성비전과 미래직업",
+      "professor": "취업정보",
+      "style": "width: 90.2%;"
+    },
+    {
+      "course": "연극과 뮤지컬의 이해와 감상",
+      "professor": "최은실",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "연극과 뮤지컬의 이해와 감상",
+      "professor": "이기원",
+      "style": "width: 79%;"
+    },
+    {
+      "course": "영미소설의 이해 (교양)",
+      "professor": "김용성",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "영미소설의 이해 (교양)",
+      "professor": "노동욱",
+      "style": "width: 92.8%;"
+    },
+    {
+      "course": "영어읽기: 스토리와 공감",
+      "professor": "김향일",
+      "style": "width: 87.6%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "on Surina",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "다니엘르이터",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "Hannah Shi",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "Yoon Surina Rin",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "Danielle Marie Etter",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "John Thomas Peters",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "영작문",
+      "professor": "Hannah Shin",
+      "style": "width: 50%;"
+    },
+    {
+      "course": "영화로 읽는 셰익스피어",
+      "professor": "미지정",
+      "style": "width: 51.2%;"
+    },
+    {
+      "course": "영화로 읽는 셰익스피어",
+      "professor": "이기원",
+      "style": "width: 84.6%;"
+    },
+    {
+      "course": "영화속 음악 산책",
+      "professor": "exander Pa",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "영화속 음악 산책",
+      "professor": "Alexander Park",
+      "style": "width: 93.6%;"
+    },
+    {
+      "course": "영화속의 법률이야기",
+      "professor": "김형태",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "영화읽기와 감정수업",
+      "professor": "한금윤",
+      "style": "width: 86.4%;"
+    },
+    {
+      "course": "예비부모교육",
+      "professor": "김나미",
+      "style": "width: 79%;"
+    },
+    {
+      "course": "예술과 과학기술",
+      "professor": "이미희",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "온라인 창업",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "온라인 창업",
+      "professor": "전성현",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "외식경영과 창업론",
+      "professor": "최성환",
+      "style": "width: 76%;"
+    },
+    {
+      "course": "운동과 체형관리",
+      "professor": "정현",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "운동과 체형관리",
+      "professor": "김영미",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "웹 프로그래밍의 기초와 이해",
+      "professor": "이야리",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "웹 프로그래밍의 기초와 이해",
+      "professor": "장윤재",
+      "style": "width: 97.6%;"
+    },
+    {
+      "course": "윈드서핑 초급",
+      "professor": "유재현",
+      "style": "width: 30%;"
+    },
+    {
+      "course": "음식과 생활윤리",
+      "professor": "김현정",
+      "style": "width: 85%;"
+    },
+    {
+      "course": "음악교육과 나눔실천",
+      "professor": "한송이",
+      "style": "width: 86.4%;"
+    },
+    {
+      "course": "응급처치 및 CPR",
+      "professor": "이재구",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "인간과 곤충",
+      "professor": "김동건",
+      "style": "width: 86.8%;"
+    },
+    {
+      "course": "인간과 행동과학(구, 뇌와 인간행동의 이해)",
+      "professor": "강병용",
+      "style": "width: 91.6%;"
+    },
+    {
+      "course": "인간과 행동과학(구, 뇌와 인간행동의 이해)",
+      "professor": "진지형",
+      "style": "width: 40%;"
+    },
+    {
+      "course": "인공지능과 건축",
+      "professor": "강경수",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "인권과 시민교양(구, 인권의 이해)",
+      "professor": "조은영",
+      "style": "width: 46%;"
+    },
+    {
+      "course": "인권과 시민교양(구, 인권의 이해)",
+      "professor": "오시진",
+      "style": "width: 87.2%;"
+    },
+    {
+      "course": "인문-디지털 가상현실의 문자적 경험",
+      "professor": "백숭기",
+      "style": "width: 91.4%;"
+    },
+    {
+      "course": "인문학적 사고로 바라본 중국이야기",
+      "professor": "안병삼",
+      "style": "width: 82.2%;"
+    },
+    {
+      "course": "일러스트와 프리젠테이션 기초",
+      "professor": "이임정",
+      "style": "width: 87.4%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "여소영",
+      "style": "width: 64.4%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "김미경",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "강병용",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "조용화",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "황윤정",
+      "style": "width: 96.4%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "김현희",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "신숙",
+      "style": "width: 67.2%;"
+    },
+    {
+      "course": "일반생물학 I",
+      "professor": "신숙",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "일본문화와 언어",
+      "professor": "김정현",
+      "style": "width: 81.4%;"
+    },
+    {
+      "course": "일본문화와 언어",
+      "professor": "유예진",
+      "style": "width: 71%;"
+    },
+    {
+      "course": "일본문화와 언어",
+      "professor": "김정헌",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "일본문화와 언어",
+      "professor": "미지정",
+      "style": "width: 20%;"
+    },
+    {
+      "course": "일본문화와 언어",
+      "professor": "민병진",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "자연재해와 대비",
+      "professor": "권기욱",
+      "style": "width: 80.8%;"
+    },
+    {
+      "course": "자연재해와 대비",
+      "professor": "최종걸",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "전인건강과 교양인의 삶(구,전인적 건강과 신앙)",
+      "professor": "이현재",
+      "style": "width: 56%;"
+    },
+    {
+      "course": "전인건강과 교양인의 삶(구,전인적 건강과 신앙)",
+      "professor": "이현재",
+      "style": "width: 81.8%;"
+    },
+    {
+      "course": "조직과 비서",
+      "professor": "김명희",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "조직행동과 사회",
+      "professor": "김도영",
+      "style": "width: 87.8%;"
+    },
+    {
+      "course": "종교음악의 이해",
+      "professor": "한송이",
+      "style": "width: 83.4%;"
+    },
+    {
+      "course": "중국문화와 언어",
+      "professor": "미지정",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "중국문화와 언어",
+      "professor": "박민수",
+      "style": "width: 84.8%;"
+    },
+    {
+      "course": "중국문화와 언어",
+      "professor": "박민수",
+      "style": "width: 79.2%;"
+    },
+    {
+      "course": "중국어 기초회화",
+      "professor": "김낙철",
+      "style": "width: 71.4%;"
+    },
+    {
+      "course": "중국언어와 예술",
+      "professor": "이정현",
+      "style": "width: 77.4%;"
+    },
+    {
+      "course": "중국언어와 예술",
+      "professor": "Zhenxuan Li",
+      "style": "width: 77.6%;"
+    },
+    {
+      "course": "지구의 기원(구, 창조론과 과학)",
+      "professor": "최준태",
+      "style": "width: 96.6%;"
+    },
+    {
+      "course": "직업,진로설계",
+      "professor": "박완성",
+      "style": "width: 80.4%;"
+    },
+    {
+      "course": "질병예방과 건강실천",
+      "professor": "이양진",
+      "style": "width: 58.8%;"
+    },
+    {
+      "course": "창세기와 고대역사",
+      "professor": "김숙영",
+      "style": "width: 83%;"
+    },
+    {
+      "course": "창세기와 고대역사",
+      "professor": "하계상",
+      "style": "width: 44%;"
+    },
+    {
+      "course": "창업기초1",
+      "professor": "강동균",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "창업기초1",
+      "professor": "전성현",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "창업기초2",
+      "professor": "최성환",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "창업기초3",
+      "professor": "오덕신",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "창의컴퓨팅입문",
+      "professor": "노현아",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "창의컴퓨팅입문",
+      "professor": "장윤재",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "채식과 건강(구, 채식과 건강II)",
+      "professor": "미지정",
+      "style": "width: 53.4%;"
+    },
+    {
+      "course": "채식과 건강(구, 채식과 건강II)",
+      "professor": "김현정",
+      "style": "width: 83.8%;"
+    },
+    {
+      "course": "처음 만나는 인공지능",
+      "professor": "최광진",
+      "style": "width: 71.4%;"
+    },
+    {
+      "course": "초급 스페인어(구, 기초스페인어)",
+      "professor": "미지정",
+      "style": "width: 73.4%;"
+    },
+    {
+      "course": "초급 스페인어(구, 기초스페인어)",
+      "professor": "김선이",
+      "style": "width: 73.8%;"
+    },
+    {
+      "course": "초급프랑스어II",
+      "professor": "KimjinsooJason",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "초급프랑스어II",
+      "professor": "Jinsoo Jason Kim",
+      "style": "width: 90.8%;"
+    },
+    {
+      "course": "초급프랑스어Ⅰ(구, 기초프랑스어)",
+      "professor": "JINSOO JA",
+      "style": "width: 96.6%;"
+    },
+    {
+      "course": "초급프랑스어Ⅰ(구, 기초프랑스어)",
+      "professor": "KIM JINSOO JASON",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "초급프랑스어Ⅰ(구, 기초프랑스어)",
+      "professor": "KimjinsooJason",
+      "style": "width: 84.4%;"
+    },
+    {
+      "course": "초급프랑스어Ⅰ(구, 기초프랑스어)",
+      "professor": "Jinsoo Jason Kim",
+      "style": "width: 89.2%;"
+    },
+    {
+      "course": "축구",
+      "professor": "손명성",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "취업정보분석과 입사전략",
+      "professor": "취업정보",
+      "style": "width: 94.6%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "김성완",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "이동학",
+      "style": "width: 95.8%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "구지현",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "이새봄",
+      "style": "width: 94.2%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "장윤재",
+      "style": "width: 96.2%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "김종완",
+      "style": "width: 92.6%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "미지정",
+      "style": "width: 85.8%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "SU-edumi(학교기업)",
+      "style": "width: 99%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "SU-edumi( 학교기업)",
+      "style": "width: 97.4%;"
+    },
+    {
+      "course": "컴퓨팅사고력",
+      "professor": "미지정",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "클래식 음악과 여행",
+      "professor": "exander Pa",
+      "style": "width: 86.6%;"
+    },
+    {
+      "course": "클래식 음악과 여행",
+      "professor": "Alexander Park",
+      "style": "width: 95.2%;"
+    },
+    {
+      "course": "타자성의 철학",
+      "professor": "오시진",
+      "style": "width: 94.2%;"
+    },
+    {
+      "course": "타자성의 철학",
+      "professor": "노동욱",
+      "style": "width: 95.8%;"
+    },
+    {
+      "course": "탄소중립과 미래기술",
+      "professor": "권기욱",
+      "style": "width: 73.4%;"
+    },
+    {
+      "course": "토익I (Total Toeic Care I)-초급",
+      "professor": "라인강의교",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "토익I (Total Toeic Care I)-초급",
+      "professor": "온라인강의교수",
+      "style": "width: 86.4%;"
+    },
+    {
+      "course": "토익I (Total Toeic Care I)-초급",
+      "professor": "온라인강의교 수",
+      "style": "width: 73.2%;"
+    },
+    {
+      "course": "토익II (Total Toeic Care II)-중급",
+      "professor": "라인강의교",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "토익II (Total Toeic Care II)-중급",
+      "professor": "온라인강의교수",
+      "style": "width: 95.2%;"
+    },
+    {
+      "course": "토익II (Total Toeic Care II)-중급",
+      "professor": "온라인강의교 수",
+      "style": "width: 65.8%;"
+    },
+    {
+      "course": "통찰과 융합",
+      "professor": "조은영",
+      "style": "width: 88.4%;"
+    },
+    {
+      "course": "특수교육학개론",
+      "professor": "심성용",
+      "style": "width: 94%;"
+    },
+    {
+      "course": "특수교육학개론",
+      "professor": "김승현",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "특수교육학개론",
+      "professor": "신남주",
+      "style": "width: 85.4%;"
+    },
+    {
+      "course": "평생교육론",
+      "professor": "박완성",
+      "style": "width: 77.2%;"
+    },
+    {
+      "course": "포토샵과사진",
+      "professor": "이임정",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "프랑스 문화(구, 프랑스 문화와 언어)",
+      "professor": "JINSOO JA",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "프랑스 문화(구, 프랑스 문화와 언어)",
+      "professor": "KimjinsooJason",
+      "style": "width: 93.8%;"
+    },
+    {
+      "course": "프랑스 문화(구, 프랑스 문화와 언어)",
+      "professor": "Jinsoo Jason Kim",
+      "style": "width: 97.6%;"
+    },
+    {
+      "course": "프랑스 문화(구, 프랑스 문화와 언어)",
+      "professor": "Jinsoo Jason Kim",
+      "style": "width: 87.4%;"
+    },
+    {
+      "course": "프랜차이즈 창업",
+      "professor": "최성환",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "학교폭력예방 및 학생의 이해",
+      "professor": "신남주",
+      "style": "width: 81%;"
+    },
+    {
+      "course": "학교폭력예방 및 학생의 이해",
+      "professor": "김나미",
+      "style": "width: 88%;"
+    },
+    {
+      "course": "학교현장실습(교육실습)",
+      "professor": "명지원",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "학교현장실습(교육실습)",
+      "professor": "박완성",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "한국 사회와 문화",
+      "professor": "이윤정",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "한국 사회와 문화",
+      "professor": "윤지연",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "한류 드라마 콘텐츠",
+      "professor": "주원규",
+      "style": "width: 65%;"
+    },
+    {
+      "course": "한류 문화 속 전통무용",
+      "professor": "이미희",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "합창과 인성(구, 교회합창)",
+      "professor": "조대명",
+      "style": "width: 100%;"
+    },
+    {
+      "course": "합창과 인성(구, 교회합창)",
+      "professor": "조대명",
+      "style": "width: 96.4%;"
+    },
+    {
+      "course": "합창과 인성(구, 교회합창)",
+      "professor": "임형준",
+      "style": "width: 96%;"
+    },
+    {
+      "course": "행동생물학",
+      "professor": "황지희",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "행동생물학",
+      "professor": "정훈",
+      "style": "width: 80%;"
+    },
+    {
+      "course": "헬스 클리닉",
+      "professor": "김재형",
+      "style": "width: 75%;"
+    },
+    {
+      "course": "헬스 클리닉",
+      "professor": "미지정",
+      "style": "width: 70%;"
+    },
+    {
+      "course": "현대 중국의 이해(구, 현대 중국사회의 이해)",
+      "professor": "이정현",
+      "style": "width: 93.4%;"
+    },
+    {
+      "course": "현대 중국의 이해(구, 현대 중국사회의 이해)",
+      "professor": "이정현",
+      "style": "width: 71.6%;"
+    },
+    {
+      "course": "현대 중국의 이해(구, 현대 중국사회의 이해)",
+      "professor": "Zhenxuan Li",
+      "style": "width: 83.6%;"
+    },
+    {
+      "course": "현대 중국의 이해(구, 현대 중국사회의 이해)",
+      "professor": "Zhenxuan Li",
+      "style": "width: 83.2%;"
+    },
+    {
+      "course": "현대건강과 발레테스",
+      "professor": "이루라",
+      "style": "width: 73.4%;"
+    },
+    {
+      "course": "현대건강과 발레테스",
+      "professor": "김지혜",
+      "style": "width: 90%;"
+    },
+    {
+      "course": "현대건강과 발레테스",
+      "professor": "박승순",
+      "style": "width: 60%;"
+    },
+    {
+      "course": "현대의 시민생활과 법",
+      "professor": "김형태",
+      "style": "width: 93%;"
+    },
+    {
+      "course": "현대의 시민생활과 법",
+      "professor": "오시진",
+      "style": "width: 95.4%;"
+    }
+  ]
+}
